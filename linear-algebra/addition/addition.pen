@@ -1,0 +1,4 @@
+title: Addition of Vector Spaces
+dsl: penrose-lib/dsl-linear-algebra
+style: penrose-lib/sty-linear-algebra
+substance: vectorsAddition.sub
